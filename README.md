@@ -6,7 +6,7 @@ Programmer  | Learner
 ></h3>
 <p align="center"> <img src="dev-working.gif" alt="#"/> </p>
 
-- 🔭 I’m currently working As **Freelancer**
+- 🔭 I’m currently working As a **Freelancer**
 
 - 🌱 I’m currently learning **Trending technologies**
 
