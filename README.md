@@ -46,6 +46,7 @@ Programmer  | Learner
   ![TDD](https://img.shields.io/badge/-TDD-05122A?style=flat)
   ![Agile](https://img.shields.io/badge/-Agile-05122A)
   [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-  [![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
+  [![SASS](https://img.shields.io/badge/-SASS-CC6699?labelColor=CC6699&logo=sass&logoColor=white)](https://sass-lang.com/)
+
 
   
