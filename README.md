@@ -16,7 +16,6 @@ Programmer  | Learner
 
 - 📫 How to reach me **https://josephnishimwe.netlify.app/**
 
-
 <br />
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,3 +45,7 @@ Programmer  | Learner
   ![SDLC](https://img.shields.io/badge/-SDLC-05122A?style=flat)
   ![TDD](https://img.shields.io/badge/-TDD-05122A?style=flat)
   ![Agile](https://img.shields.io/badge/-Agile-05122A)
+  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  [![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
+
+  
